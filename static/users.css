@@ -1,0 +1,52 @@
+html{
+    background-color: #e66465;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0%;
+    margin: 0%;
+}
+
+#registration,#login{
+    display: inline-block;
+  border: 2px solid gray;
+  padding: 10px;
+  width:65%;
+
+
+}
+
+.container{
+    margin: 15%;
+}
+
+h2{
+    text-align: left;
+    margin-left: 3%;
+    font-family: "Times New Roman", Times, serif;
+}
+.error{
+    color: #f00;
+    background-color: bisque;
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+#registration,form,#login{
+    background-color: rgb(255, 254, 254);
+    border-radius: 10px;
+    padding: 0%;
+
+}
+
+#email,#password,#username{
+    width: fit-content;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+form,h3{
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+}
+
